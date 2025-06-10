@@ -1,3 +1,3 @@
 require("gimatria")
-console.log((5779).gimatria());
-console.log("ה'תשעט".gimatria())
+console.log((5785).gimatria());
+console.log("ה'תשפה".gimatria())
